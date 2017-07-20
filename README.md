@@ -33,10 +33,10 @@ end
 ## Setting up Putty
 
 - Run VirtualBox machine and login to machine username/password : vagrant/vagrant
-- Run command ifconfig
-- Under eth0 you will see an ip address, copy that address, "192.168.56.101" was tipically my address
+- Run command ```ifconfig```
+- Under eth0 you will see an ip address, copy it, example: "192.168.56.101"
 - Open Putty and insert into Saved sessions new {SESSION_NAME}
-- Insert ip addess you copied
+- Insert ip address you copied
 - Under Logging (treeview on the left) select options you need, I typically select place where to store the log file and name of it
 - Click button Save and your putty session will be saved
 - Now create on desktop shortcut to ```"C:\Program Files\PuTTY\putty.exe" -ssh -load {SESSION_NAME}```
