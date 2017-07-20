@@ -18,7 +18,7 @@
 ## Setting up Vagrant machine
 
 - First open *vagrant-folder* and run in cmd command: ```vagrant init``` this will create *Vagrantfile*
-- If you would like to change name of the Vagrant machine add this next lines to your "Vagrantfile"
+- If you would like to change name of the Vagrant machine add next lines to your "Vagrantfile"
 ``` 
 # Box name
 config.vm.define :master do |t|
