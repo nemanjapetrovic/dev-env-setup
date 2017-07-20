@@ -1,4 +1,4 @@
-# Setting up my development enviroment
+# Setting up my development environment
 
 ## Requirments
 
@@ -17,7 +17,7 @@
 
 ## Setting up Vagrant machine
 
-- First open *vagrant-folder* and run in cmd command: ```vagrant init``` this will create *Vagrantfile*
+- First, open *vagrant-folder* and run in cmd command: ```vagrant init``` this will create *Vagrantfile*
 - If you would like to change name of the Vagrant machine add next lines to your "Vagrantfile"
 ``` 
 # Box name
@@ -32,12 +32,12 @@ end
 
 ## Setting up Putty
 
-- Run VirtualBox machine and login to machine username/password : vagrant/vagrant
+- Run VirtualBox machine and log in to machine username/password: vagrant/vagrant
 - Run command ```ifconfig```
-- Under eth0 you will see an ip address, copy it, example: "192.168.56.101"
+- Under eth0 you will see an IP address, copy it, example: "192.168.56.101"
 - Open Putty and insert into Saved sessions new {SESSION_NAME}
-- Insert ip address you copied
-- Under Logging (treeview on the left) select options you need, I typically select place where to store the log file and name of it
+- Insert IP address you copied
+- Under Logging (tree view on the left) select options you need, I typically select place where to store the log file and name of it
 - Click button Save and your putty session will be saved
 - Now create on desktop shortcut to ```"C:\Program Files\PuTTY\putty.exe" -ssh -load {SESSION_NAME}```
 
