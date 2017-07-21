@@ -1,6 +1,6 @@
 ## Setting up Putty session
 
-- Run VirtualBox machine and log in to machine username/password: vagrant/vagrant
+- Run VirtualBox machine and log in to linux machine username/password: vagrant/vagrant
 - Run command ```ifconfig```
 - Under eth0 you will see an IP address, copy it, example: "192.168.56.101"
 - Open Putty and insert into Saved sessions new {SESSION_NAME}
