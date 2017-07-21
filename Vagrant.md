@@ -1,4 +1,4 @@
-# Setting up my development environment
+# Setting up Vagrant development environment
 
 ## Requirments
 
