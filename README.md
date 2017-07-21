@@ -1,15 +1,11 @@
 # Development environment setup
 
-List of documents for setting up your development environment
-
-------------------------------------------------------------------------------
+List of documents for setting up your development environments.
 
 ## Documents
 
 - [ ] [Vagrant](https://github.com/nemanjapetrovic/dev-env-setup/blob/master/Vagrant.md)
 - [ ] [Putty](https://github.com/nemanjapetrovic/dev-env-setup/blob/master/Putty.md)
-
-------------------------------------------------------------------------------
 
 # Contribution
 
