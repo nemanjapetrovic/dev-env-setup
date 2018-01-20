@@ -6,7 +6,7 @@ List of documents for setting up your development environments.
 
 - [ ] [Vagrant](https://github.com/nemanjapetrovic/dev-env-setup/blob/master/Vagrant.md)
 - [ ] [Putty](https://github.com/nemanjapetrovic/dev-env-setup/blob/master/Putty.md)
-- [ ] [C# SonarQube code analyzer](https://github.com/nemanjapetrovic/dev-env-setup/blob/master/C#-SonarQube.md)
+- [ ] [C# SonarQube code analyzer](https://github.com/nemanjapetrovic/dev-env-setup/blob/master/C%23-SonarQube.md)
 
 # [Contribution](https://github.com/nemanjapetrovic/dev-env-setup/blob/master/CONTRIBUTING.md)
 
