@@ -1,6 +1,6 @@
 # Setting up Vagrant development environment
 
-## Requirments
+## Requirements
 
 - Latest version of VirtualBox installed
 - Latest version of VirtualBox extensions installed

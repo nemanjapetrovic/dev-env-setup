@@ -1,4 +1,4 @@
-## Setting up Putty session
+# Setting up Putty session
 
 - Run VirtualBox machine and log in to Linux machine username/password: vagrant/vagrant
 - Run command ```ifconfig```
