@@ -18,7 +18,7 @@ SonarQube software (previously called Sonar) is an open source quality managemen
 - Login with admin/admin credentials
 - Create a SonarQube project
 - At the last step, SonarQube will give you some commands, make sure to note them somewhere, you'll need them later
-- Now download scanner for MSBuild from `https://github.com/SonarSource/sonar-scanner-msbuild/releases`
+- Now download scanner for MSBuild from https://github.com/SonarSource/sonar-scanner-msbuild/releases
 - Extract .zip of scanner you downloaded to `C:/SonarQubeScanners`
 - Add SonarQube.Scanner.MSBuild.exe folder `C:/SonarQubeScanners` to the PATH
 - Now it's time to run SonarQube Analyzer
